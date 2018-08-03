@@ -8,4 +8,4 @@ https://gamebanana.com/tools/6333
 4. Open the Mod Loader and enable the mod.
 Done!
 # Things left unchhanged
-Last Story script, recaps
+Recaps
